@@ -1,0 +1,19 @@
+.App {
+    font-family: 'Roboto', sans-serif;
+    height: 100vh;
+}
+
+.parent-card {
+    border-radius: 20px;
+    background-size: cover;
+    background-color: rgb(14, 106, 197);
+    border: none;
+}
+
+.data-card {
+    cursor: pointer;
+    border-radius: 20px;
+    width: 190px;
+    max-width: 200px;
+    height: 200px;
+}
